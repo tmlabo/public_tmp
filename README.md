@@ -1,5 +1,7 @@
 https://kotapontan.hatenablog.com/entry/2020/06/10/RequestBody%E3%81%AE%E5%86%85%E5%AE%B9%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91
 
+https://qiita.com/syukai/items/f03844feca78572ce24f
+
 # public_tmp
 
 curl -v -b cookie.txt -c cookie.txt "http://localhost:8080/session/set?name=foo&bloodType=a"
