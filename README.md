@@ -1,7 +1,10 @@
 # spring boot にてサービスクラスなどで@ValidとbindResultと同じようなエラーを画面に出したい場合
 # BindingResult.rejectValue() を使う模様
 https://kojion.com/posts/832
+https://qiita.com/eunaa2934/items/9cc1f001e91a4b7c51c0
 
+
+# ( ..)φメモメモ
 
 https://kasyalog.site/blog/spring-security-api-auth/
 
